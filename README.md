@@ -1,2 +1,1 @@
-# ts_playground
-TS Playground
+# Admin Exmaple by Vue3

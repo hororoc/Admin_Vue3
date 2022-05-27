@@ -1,1 +1,1 @@
-# Admin Exmaple by Vue3
+# Admin Example by Vue3
